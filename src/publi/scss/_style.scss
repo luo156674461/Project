@@ -1,0 +1,148 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../font/fonts/icomoon.eot?6eivzu');
+  src:  url('../font/fonts/icomoon.eot?6eivzu#iefix') format('embedded-opentype'),
+    url('../font/fonts/icomoon.ttf?6eivzu') format('truetype'),
+    url('../font/fonts/icomoon.woff?6eivzu') format('woff'),
+    url('../font/fonts/icomoon.svg?6eivzu#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-activity:before {
+  content: "\e900";
+  color: #bfbfbf;
+}
+.icon-add_circle:before {
+  content: "\e901";
+}
+.icon-arrow_lift:before {
+  content: "\e902";
+}
+.icon-check_circle:before {
+  content: "\e903";
+}
+.icon-classroom:before {
+  content: "\e904";
+  color: #bfbfbf;
+}
+.icon-close:before {
+  content: "\e905";
+}
+.icon-discover:before {
+  content: "\e906";
+  color: #cdcdcd;
+}
+.icon-download:before {
+  content: "\e907";
+  color: #bfbfbf;
+}
+.icon-favorite:before {
+  content: "\e908";
+}
+.icon-ghost:before {
+  content: "\e909";
+  color: #cdcdcd;
+}
+.icon-grade:before {
+  content: "\e90a";
+  color: #bfbfbf;
+}
+.icon-home_page:before {
+  content: "\e90b";
+  color: #cdcdcd;
+}
+.icon-icomoon:before {
+  content: "\e90c";
+  color: #707070;
+}
+.icon-information:before {
+  content: "\e90d";
+  color: #1afa29;
+}
+.icon-keyboard_arrow_right:before {
+  content: "\e90e";
+}
+.icon-mine:before {
+  content: "\e90f";
+  color: #bfbfbf;
+}
+.icon-mistakes_normal:before {
+  content: "\e910";
+  color: #cdcdcd;
+}
+.icon-money:before {
+  content: "\e911";
+  color: #bfbfbf;
+}
+.icon-opinion:before {
+  content: "\e912";
+  color: #bfbfbf;
+}
+.icon-order:before {
+  content: "\e913";
+  color: #bfbfbf;
+}
+.icon-pause:before {
+  content: "\e914";
+  color: #bfbfbf;
+}
+.icon-play:before {
+  content: "\e915";
+  color: #cdcdcd;
+}
+.icon-present:before {
+  content: "\e916";
+  color: #bfbfbf;
+}
+.icon-regards:before {
+  content: "\e917";
+  color: #cdcdcd;
+}
+.icon-remove_circle_outline:before {
+  content: "\e918";
+}
+.icon-review:before {
+  content: "\e919";
+  color: #707070;
+}
+.icon-screen:before {
+  content: "\e91a";
+  color: #cdcdcd;
+}
+.icon-setting:before {
+  content: "\e91b";
+  color: #bfbfbf;
+}
+.icon-shopping_cart:before {
+  content: "\e91c";
+}
+.icon-study:before {
+  content: "\e91d";
+  color: #bfbfbf;
+}
+.icon-thumb_down:before {
+  content: "\e91e";
+}
+.icon-thumb_up:before {
+  content: "\e91f";
+}
+.icon-tool:before {
+  content: "\e920";
+  color: #bfbfbf;
+}

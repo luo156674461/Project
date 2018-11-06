@@ -1,0 +1,30 @@
+
+@mixin border-1px($color) {
+  position: relative;
+
+  &:after {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid $color;
+    content: ' '
+  }
+}
+
+
+@mixin border-2px($color) {
+  position: relative;
+
+  &:after {
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    margin-left: -7%;
+    width: 15%;
+    border-top: 4px solid $color;
+    border-radius: 10px;
+    content: ' '
+  }
+}
+
